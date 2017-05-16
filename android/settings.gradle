@@ -1,0 +1,3 @@
+rootProject.name = 'PeopleApp'
+
+include ':app'

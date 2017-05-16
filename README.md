@@ -2,6 +2,8 @@
 
 This app demonstrates dynamic deep linking using React Native.
 
+![](http://i.imgur.com/szcU9ML.gif)
+
 ## To test this out
 
 1. Clone repository   

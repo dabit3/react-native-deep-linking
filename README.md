@@ -27,8 +27,8 @@ yarn // or npm i
 
 You can easily test out via terminal using following command.
 
-adb shell am start -a android.intent.action.VIEW \ -c android.intent.category.BROWSABLE \ -d "<scheme>://<host>/<id>"
+`adb shell am start -a android.intent.action.VIEW \ -c android.intent.category.BROWSABLE \ -d "<scheme>://<host>/<id>"`
 
 example :
 
-adb shell am start -a android.intent.action.VIEW \ -c android.intent.category.BROWSABLE \ -d "peopleapp://people/1"
+`adb shell am start -a android.intent.action.VIEW \ -c android.intent.category.BROWSABLE \ -d "peopleapp://people/1"`
